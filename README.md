@@ -1,6 +1,6 @@
-# Projekt transformacja, czyli Matrix - poznaj reguły gry
+# Projekt transformacja, czyli Matrix - poznaj reguły gry https://dataworkshop.eu/matrix
 
-Tutaj pojawią się 5 dni z projektu transformacja - część pierwsza
-- a
-- b
-- c
+Tutaj pojawią się kolejne transformacje z projektu Matrix:
+-
+-
+- Predicion road sign by computer vision
